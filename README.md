@@ -1,4 +1,4 @@
-# Final_Team_Project
+# Final Team Project
 Final Team Project for ADS 505
 
 Data Source
